@@ -1,2 +1,2 @@
 # Visual-scroll.vim
- Vim64
+Vim64-GUI visual scrollbar
