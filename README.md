@@ -1,6 +1,6 @@
-# vim-scrollsign.vim
+ # Signbar.vim
 
-vim-scrollsign.vim is a lightweight Vim plugin that adds a visual scrollbar-like indicator to the sign column. It helps you quickly understand where the current viewport sits inside a long buffer without relying on a GUI scrollbar.
+Signbar.vim is a lightweight Vim plugin that adds a visual scrollbar-like indicator to the sign column. It helps you quickly understand where the current viewport sits inside a long buffer without relying on a GUI scrollbar.
 
 ## Features
 
@@ -15,7 +15,7 @@ Using vim-plug:
 
 ```vim
 call plug#begin()
-Plug 'Amine-Belkacem/visual-scroll.vim'
+ Plug 'Amine-Belkacem/Signbar.vim'
 call plug#end()
 ```
 
