@@ -15,7 +15,7 @@ Using vim-plug:
 
 ```vim
 call plug#begin()
- Plug 'Amine-Belkacem/Signbar.vim'
+ Plug 'Amine-Belgacem/signbar.vim'
 call plug#end()
 ```
 
